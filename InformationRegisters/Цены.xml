@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.15">
-	<InformationRegister uuid="c30bc5ac-2f31-4365-82b5-2c5536e9122d">
+	<InformationRegister uuid="9f431bff-6a36-4820-9d89-40c4024a06d4">
 		<InternalInfo>
 			<xr:GeneratedType name="InformationRegisterRecord.Цены" category="Record">
-				<xr:TypeId>1ad182fd-2604-4aad-8c6a-54f631c93bc7</xr:TypeId>
-				<xr:ValueId>3bc0c802-7605-4f14-80b0-d0afd1c74048</xr:ValueId>
+				<xr:TypeId>bd7e63f6-037e-4473-a237-aa21c49158ce</xr:TypeId>
+				<xr:ValueId>e41e8390-3d79-49e7-b6a7-1c4d21e138a6</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterManager.Цены" category="Manager">
-				<xr:TypeId>3afd78ce-9cde-4037-baae-b4085d8927c6</xr:TypeId>
-				<xr:ValueId>4ba658ce-fce2-4028-ac26-17c7fcb5f778</xr:ValueId>
+				<xr:TypeId>717474f2-1ea8-4ca7-85e1-64b0ef9a6157</xr:TypeId>
+				<xr:ValueId>8e52d814-0b8b-42f1-a64c-33f4d2bd0f96</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterSelection.Цены" category="Selection">
-				<xr:TypeId>efefbb9e-2acd-4aec-a96f-02e415e2394e</xr:TypeId>
-				<xr:ValueId>a699cc3e-9d69-4483-ab5e-7b978fa7e161</xr:ValueId>
+				<xr:TypeId>ae7555bc-65b1-4393-8a8b-9612b2bec83e</xr:TypeId>
+				<xr:ValueId>789a804d-43fe-4a03-bb0b-9ed1ddab79e1</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterList.Цены" category="List">
-				<xr:TypeId>579796c4-6087-4514-aeb6-4d438a7255e1</xr:TypeId>
-				<xr:ValueId>1beb0127-d3ad-4004-b498-04bb6fb3cdda</xr:ValueId>
+				<xr:TypeId>aec62222-e68b-4180-80ac-c0d183bc073f</xr:TypeId>
+				<xr:ValueId>9266ed32-3d13-4115-a649-fa51b355407d</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterRecordSet.Цены" category="RecordSet">
-				<xr:TypeId>b880a82e-9db6-4a74-8a05-7d9c399602ca</xr:TypeId>
-				<xr:ValueId>5dc3935a-d439-48d4-9ae4-9ab646aa5ba9</xr:ValueId>
+				<xr:TypeId>435b6c0e-c2d0-49da-ab7e-77b3bd79b3e8</xr:TypeId>
+				<xr:ValueId>fccb89dc-c2d9-49ef-836c-ee7e686628d0</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterRecordKey.Цены" category="RecordKey">
-				<xr:TypeId>4b713865-cf3a-4529-a829-872a01f6af0c</xr:TypeId>
-				<xr:ValueId>cf9721d7-fc66-409e-b169-65b398089aed</xr:ValueId>
+				<xr:TypeId>0b0372b8-aaa6-40e4-8752-9725f6be7a6b</xr:TypeId>
+				<xr:ValueId>c2d64c59-4538-4654-9337-273922e51d36</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterRecordManager.Цены" category="RecordManager">
-				<xr:TypeId>15d5af65-0cde-4ffb-8bc1-41c73427f665</xr:TypeId>
-				<xr:ValueId>b20c89ed-409e-4340-ba17-fb615d4ed21f</xr:ValueId>
+				<xr:TypeId>2d45c74e-e3f2-4e37-8f1d-54e20e1e9bfd</xr:TypeId>
+				<xr:ValueId>d92b397a-fb49-469a-b575-1afd0e468953</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -46,9 +46,9 @@
 			<DefaultListForm/>
 			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
-			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<InformationRegisterPeriodicity>Second</InformationRegisterPeriodicity>
 			<WriteMode>Independent</WriteMode>
-			<MainFilterOnPeriod>false</MainFilterOnPeriod>
+			<MainFilterOnPeriod>true</MainFilterOnPeriod>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>DontUse</FullTextSearch>
@@ -64,7 +64,7 @@
 			<ListPresentation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Цены </v8:content>
+					<v8:content>Цены на номенклатуру</v8:content>
 				</v8:item>
 			</ListPresentation>
 			<ExtendedListPresentation/>
@@ -74,7 +74,7 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="1623e808-4319-453d-a743-bb7afe79255f">
+			<Resource uuid="15174458-cce2-42b5-9297-93ea538d31bd">
 				<Properties>
 					<Name>Цена</Name>
 					<Synonym>
@@ -87,7 +87,7 @@
 					<Type>
 						<v8:Type>xs:decimal</v8:Type>
 						<v8:NumberQualifiers>
-							<v8:Digits>10</v8:Digits>
+							<v8:Digits>15</v8:Digits>
 							<v8:FractionDigits>2</v8:FractionDigits>
 							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
 						</v8:NumberQualifiers>
@@ -118,13 +118,13 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
-			<Dimension uuid="daddc5d8-e26a-478d-a41b-1d993115a93d">
+			<Dimension uuid="c9981015-6e1a-4f15-94fa-1a1b3327e04a">
 				<Properties>
-					<Name>Наименование</Name>
+					<Name>Номенклатура</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Наименование</v8:content>
+							<v8:content>Номенклатура</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

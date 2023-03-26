@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.15">
-	<AccumulationRegister uuid="a816be81-8b5e-45be-918f-9eeeb6ccf864">
+	<AccumulationRegister uuid="60aea244-1c1f-4311-b009-de7e06a2321f">
 		<InternalInfo>
 			<xr:GeneratedType name="AccumulationRegisterRecord.Продажи" category="Record">
-				<xr:TypeId>2d0a1c4a-42e9-4e5d-b17a-f111f6ec5dee</xr:TypeId>
-				<xr:ValueId>81ecc5bb-ce86-4967-8890-6e287f9a09d1</xr:ValueId>
+				<xr:TypeId>01f1a875-e42c-4e2a-8a09-5073f93afd1b</xr:TypeId>
+				<xr:ValueId>ff7f23c9-a62e-4fb2-b71f-4f17bf6cf188</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterManager.Продажи" category="Manager">
-				<xr:TypeId>1cd96dd4-6fd9-4b39-927b-8cb922d95681</xr:TypeId>
-				<xr:ValueId>c14260a2-6d6d-44f4-8606-a83e60ee35b5</xr:ValueId>
+				<xr:TypeId>37880e41-72bb-419f-aed2-a19c0e0fd3ea</xr:TypeId>
+				<xr:ValueId>644db316-6fb4-485e-9a61-01bd5c887abf</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterSelection.Продажи" category="Selection">
-				<xr:TypeId>71554036-c51e-4ec5-90a9-92fbb04093ef</xr:TypeId>
-				<xr:ValueId>28fd2c20-ba81-4925-87f3-b93b3745e09e</xr:ValueId>
+				<xr:TypeId>65ee82a7-726a-462c-89ae-ee01dad00fb5</xr:TypeId>
+				<xr:ValueId>5def2392-7490-43e4-afcf-373198a63cf3</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterList.Продажи" category="List">
-				<xr:TypeId>d587dae7-8c20-4a69-8b37-0148ef731413</xr:TypeId>
-				<xr:ValueId>fe67b2e8-daf3-41e0-b02c-a79b7825558d</xr:ValueId>
+				<xr:TypeId>8e87451d-ae80-4d88-ae9e-d2944bb230fa</xr:TypeId>
+				<xr:ValueId>10310bf0-52ce-49f0-98af-50bc025d98ff</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterRecordSet.Продажи" category="RecordSet">
-				<xr:TypeId>7c817e1c-3d82-4db2-a5e2-1ec69f1b297c</xr:TypeId>
-				<xr:ValueId>0d766d6d-9e1d-4ae6-9c7c-252655c8961a</xr:ValueId>
+				<xr:TypeId>14f5944d-a460-4663-b14f-f5e4c9d41a83</xr:TypeId>
+				<xr:ValueId>eb462017-2ad5-4bee-a648-f126b1ff6a45</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterRecordKey.Продажи" category="RecordKey">
-				<xr:TypeId>b898bb0e-cc4e-4c9b-9dd4-5ec9096868a5</xr:TypeId>
-				<xr:ValueId>dd1f119c-f743-4cca-a182-09643b026832</xr:ValueId>
+				<xr:TypeId>f89c5be7-7ae9-47d1-8b0d-0984a31edec8</xr:TypeId>
+				<xr:ValueId>39e04530-7a8e-48c6-a60f-53f4cdf4c6c0</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -45,11 +45,16 @@
 			<FullTextSearch>DontUse</FullTextSearch>
 			<EnableTotalsSplitting>true</EnableTotalsSplitting>
 			<ListPresentation/>
-			<ExtendedListPresentation/>
+			<ExtendedListPresentation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Движения по регистру Продажи</v8:content>
+				</v8:item>
+			</ExtendedListPresentation>
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="23f75d65-d761-4cc3-8251-dcf9a44ba326">
+			<Resource uuid="6a7c6987-b544-4817-ad79-200ba3a7dba6">
 				<Properties>
 					<Name>Количество</Name>
 					<Synonym>
@@ -62,9 +67,9 @@
 					<Type>
 						<v8:Type>xs:decimal</v8:Type>
 						<v8:NumberQualifiers>
-							<v8:Digits>10</v8:Digits>
-							<v8:FractionDigits>0</v8:FractionDigits>
-							<v8:AllowedSign>Any</v8:AllowedSign>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>3</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
 						</v8:NumberQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
@@ -89,22 +94,22 @@
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Resource>
-			<Resource uuid="3485636f-9684-4d2d-b7e9-3f6a5c4c4940">
+			<Resource uuid="e6194c8b-027f-4137-8471-c85df69d78ac">
 				<Properties>
-					<Name>Цена</Name>
+					<Name>Выручка</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Цена</v8:content>
+							<v8:content>Выручка</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
 						<v8:Type>xs:decimal</v8:Type>
 						<v8:NumberQualifiers>
-							<v8:Digits>10</v8:Digits>
-							<v8:FractionDigits>0</v8:FractionDigits>
-							<v8:AllowedSign>Any</v8:AllowedSign>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
 						</v8:NumberQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
@@ -129,18 +134,134 @@
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Resource>
-			<Dimension uuid="6cc8a852-baab-4676-a742-ec4370bab407">
+			<Resource uuid="a75a00d0-8e31-476e-b812-77131fcb308b">
 				<Properties>
-					<Name>Наименование</Name>
+					<Name>Стоимость</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Наименование</v8:content>
+							<v8:content>Стоимость</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<FullTextSearch>Use</FullTextSearch>
+				</Properties>
+			</Resource>
+			<Dimension uuid="a34229dd-d7ea-41c7-b254-ac69357bcacb">
+				<Properties>
+					<Name>Номенклатура</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Номенклатура</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
 						<v8:Type>cfg:CatalogRef.Номенклатура</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<DenyIncompleteValues>false</DenyIncompleteValues>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<UseInTotals>true</UseInTotals>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="c8747e11-1705-4f00-8d4d-f5d58dab85fb">
+				<Properties>
+					<Name>Клиент</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Клиент</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Клиенты</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<DenyIncompleteValues>false</DenyIncompleteValues>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<UseInTotals>true</UseInTotals>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="ba6057ca-d842-48d2-84b6-47a79377ee59">
+				<Properties>
+					<Name>Мастер</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Мастер</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Сотрудники</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

@@ -1,44 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.15">
-	<Configuration uuid="452fde62-8ab0-4ab1-8d20-6e21b8a5ab53">
+	<Configuration uuid="865f3645-ad28-4065-842f-704ec5665f08">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>080bbdcd-1352-4777-8342-3d7ba2f6c07b</xr:ObjectId>
+				<xr:ObjectId>b28326de-aec3-4c8e-b669-aa1e7499c44f</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>bf609443-c385-4d30-80bb-2d76893db9de</xr:ObjectId>
+				<xr:ObjectId>abbbc1eb-c8a5-4de0-b068-dfdaef72098e</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>16d01285-bb79-4ae2-825b-025ebedf0cca</xr:ObjectId>
+				<xr:ObjectId>ab19f99f-e131-45f5-a7f6-4549a70fc8b5</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>4017c980-bc79-48b7-9c50-3e337372450e</xr:ObjectId>
+				<xr:ObjectId>9af7c3ad-eb78-4b15-828f-8e239d7a0af5</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>6b4e2765-374c-4193-8406-7d6239790efd</xr:ObjectId>
+				<xr:ObjectId>1cdf07d0-1461-4010-a2fa-841bcb4c77eb</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>5a96ba4b-7636-4f17-acc3-ebb61639153d</xr:ObjectId>
+				<xr:ObjectId>d559eef9-0ac6-4574-9807-26ea3462b689</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>7f962ebc-7977-4ac7-baa1-b5cf49fd8759</xr:ObjectId>
+				<xr:ObjectId>36112f56-55d3-4948-8767-c0505767df74</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>Morendi</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Morendi</v8:content>
-				</v8:item>
-			</Synonym>
+			<Name>Конфигурация</Name>
+			<Synonym/>
 			<Comment/>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_22</ConfigurationExtensionCompatibilityMode>
@@ -203,7 +198,7 @@
 			<MobileApplicationURLs/>
 			<MainClientApplicationWindowMode>Normal</MainClientApplicationWindowMode>
 			<DefaultInterface/>
-			<DefaultStyle>Style.Стиль1</DefaultStyle>
+			<DefaultStyle/>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -213,59 +208,84 @@
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
 			<ModalityUseMode>DontUse</ModalityUseMode>
-			<SynchronousPlatformExtensionAndAddInCallUseMode>DontUse</SynchronousPlatformExtensionAndAddInCallUseMode>
+			<SynchronousPlatformExtensionAndAddInCallUseMode>Use</SynchronousPlatformExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
-			<CompatibilityMode>Version8_3_20</CompatibilityMode>
+			<CompatibilityMode>Version8_3_22</CompatibilityMode>
 			<DefaultConstantsForm/>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Бухгалтерия</Subsystem>
-			<Subsystem>Поступления</Subsystem>
-			<Subsystem>Продажи</Subsystem>
-			<Subsystem>Сервис</Subsystem>
-			<Style>Стиль1</Style>
-			<CommonPicture>Предприятие</CommonPicture>
-			<CommonPicture>Бухгалтерия</CommonPicture>
-			<CommonPicture>Продажи</CommonPicture>
-			<CommonPicture>Поступления</CommonPicture>
-			<CommonPicture>Сервис</CommonPicture>
+			<Subsystem>РасчетЗарплаты</Subsystem>
+			<Subsystem>УчетМатериалов</Subsystem>
+			<Subsystem>Предприятие</Subsystem>
+			<Subsystem>ОказаниеУслуг</Subsystem>
+			<Role>Администратор</Role>
+			<Role>Директор</Role>
+			<Role>Мастер</Role>
+			<Role>Расчетчик</Role>
+			<Role>Бухгалтер</Role>
+			<FilterCriterion>ОказаниеУслуги</FilterCriterion>
 			<CommonModule>РаботаСДокументами</CommonModule>
-			<Constant>НазваниеОрганизации</Constant>
-			<Constant>ИНН</Constant>
-			<Constant>Адрес</Constant>
-			<Constant>НомерТелефона</Constant>
-			<Constant>EMail</Constant>
-			<CommonForm>ФормаКонстант</CommonForm>
-			<CommonForm>Morendi</CommonForm>
-			<Catalog>Номенклатура</Catalog>
+			<CommonModule>РаботаСоСправочниками</CommonModule>
+			<CommonModule>ПроведениеРасчетов</CommonModule>
+			<CommonModule>РегламентныеПроцедуры</CommonModule>
+			<CommonModule>Обмен</CommonModule>
+			<ExchangePlan>Филиалы</ExchangePlan>
+			<ExchangePlan>Отделения</ExchangePlan>
+			<ScheduledJob>ОбновлениеИндекса</ScheduledJob>
+			<ScheduledJob>СлияниеИндексов</ScheduledJob>
+			<FunctionalOption>БухгалтерскийУчет</FunctionalOption>
+			<FunctionalOption>РасчетЗарплаты</FunctionalOption>
+			<FunctionalOption>УчетКлиентов</FunctionalOption>
+			<Constant>ПрефиксНумерации</Constant>
+			<Constant>БухгалтерскийУчет</Constant>
+			<Constant>РасчетЗарплаты</Constant>
+			<Constant>УчетКлиентов</Constant>
+			<CommonForm>ОбщиеНастройки</CommonForm>
+			<Catalog>Товары</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Catalog>БытоваяТехника</Catalog>
+			<Catalog>Подразделения</Catalog>
+			<Catalog>ЕдиницыИзмерения</Catalog>
+			<Catalog>Склады</Catalog>
 			<Catalog>Клиенты</Catalog>
-			<Catalog>Поставщик</Catalog>
-			<Catalog>МаркиИМоделиАвто</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>ВариантыНоменклатуры</Catalog>
+			<Catalog>ДополнительныеСвойстваНоменклатуры</Catalog>
+			<Catalog>Субконто</Catalog>
+			<Catalog>ВидыГрафиковРаботы</Catalog>
 			<Document>ПриходнаяНакладная</Document>
-			<Document>РасходнаяНакладная</Document>
-			<Document>ЗаказНаряд</Document>
-			<Document>Диагностика</Document>
-			<Document>АктПриемки</Document>
-			<Document>ГарантийныйРемонт</Document>
-			<Document>ПриемНаРаботу</Document>
-			<Document>ОплатаПоставщику</Document>
-			<Document>НачислениеЗаработнойПлаты</Document>
-			<Enum>Должность</Enum>
-			<Enum>Подразделения</Enum>
-			<Report>ОстаткиТоваров</Report>
-			<Report>Продажи</Report>
-			<Report>ЗаработнаяПлата</Report>
-			<Report>ВыполненныйГарантийныйРемонт</Report>
-			<Report>ДвиженияДенежныхСредств</Report>
+			<Document>ОказаниеУслуги</Document>
+			<Document>НачисленияСотрудникам</Document>
+			<Document>ВводНачальныхОстатковНоменклатуры</Document>
+			<Enum>ВидыНоменклатуры</Enum>
+			<Report>Материалы</Report>
+			<Report>РеестрДокументовОказаниеУслуги</Report>
+			<Report>РейтингУслуг</Report>
+			<Report>ВыручкаМастеров</Report>
+			<Report>ПереченьУслуг</Report>
+			<Report>РейтингКлиентов</Report>
+			<Report>Универсальный</Report>
+			<Report>ОстаткиМатериаловПоСвойствам</Report>
+			<Report>ОборотноСальдоваяВедомость</Report>
+			<Report>Перерасчет</Report>
+			<Report>НачисленияСотрудникам</Report>
+			<Report>ДиаграммаНачислений</Report>
+			<DataProcessor>ОбменДанными</DataProcessor>
+			<DataProcessor>ОбменСОтделениями</DataProcessor>
 			<InformationRegister>Цены</InformationRegister>
-			<InformationRegister>ЦеныПоставщика</InformationRegister>
-			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
+			<InformationRegister>ЗначенияСвойтсвНоменклатуры</InformationRegister>
+			<InformationRegister>ГрафикиРаботы</InformationRegister>
+			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
+			<AccumulationRegister>СтоимостьМатериалов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
-			<AccumulationRegister>ГарантийноеОбслуживание</AccumulationRegister>
-			<AccumulationRegister>ПриемНаРаботу</AccumulationRegister>
-			<AccumulationRegister>ДДС</AccumulationRegister>
+			<ChartOfCharacteristicTypes>СвойстваНоменклатуры</ChartOfCharacteristicTypes>
+			<ChartOfCharacteristicTypes>ВидыСубконто</ChartOfCharacteristicTypes>
+			<ChartOfAccounts>Основной</ChartOfAccounts>
+			<AccountingRegister>Управленческий</AccountingRegister>
+			<ChartOfCalculationTypes>ОсновныеНачисления</ChartOfCalculationTypes>
+			<CalculationRegister>Начисления</CalculationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
